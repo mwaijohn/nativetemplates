@@ -2,14 +2,17 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.google.android.ads.nativetemplates" >
 4
-5    <uses-sdk android:minSdkVersion="16" />
-5-->/home/jmwai/PERSONAL/android/EthiopiaNews/nativetemplates/src/main/AndroidManifest.xml
-6
-7    <application android:supportsRtl="true" >
-7-->/home/jmwai/PERSONAL/android/EthiopiaNews/nativetemplates/src/main/AndroidManifest.xml:2:3-4:17
-7-->/home/jmwai/PERSONAL/android/EthiopiaNews/nativetemplates/src/main/AndroidManifest.xml:2:16-42
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->E:\PROJECTS\android\254\memes254\nativetemplates\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="34" />
+7-->E:\PROJECTS\android\254\memes254\nativetemplates\src\main\AndroidManifest.xml
 8
-9        <!-- package="com.google.android.ads.nativetemplates" -->
-10    </application>
-11
-12</manifest>
+9    <application android:supportsRtl="true" >
+9-->E:\PROJECTS\android\254\memes254\nativetemplates\src\main\AndroidManifest.xml:2:3-4:17
+9-->E:\PROJECTS\android\254\memes254\nativetemplates\src\main\AndroidManifest.xml:2:16-42
+10
+11        <!-- package="com.google.android.ads.nativetemplates" -->
+12    </application>
+13
+14</manifest>
