@@ -4,13 +4,13 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="16"
-6-->/home/jmwai/PERSONAL/android/memes254/nativetemplates/src/main/AndroidManifest.xml
+6-->/home/jmwai/PERSONAL/android/memes254/nativetemplatess/src/main/AndroidManifest.xml
 7        android:targetSdkVersion="34" />
-7-->/home/jmwai/PERSONAL/android/memes254/nativetemplates/src/main/AndroidManifest.xml
+7-->/home/jmwai/PERSONAL/android/memes254/nativetemplatess/src/main/AndroidManifest.xml
 8
 9    <application android:supportsRtl="true" >
-9-->/home/jmwai/PERSONAL/android/memes254/nativetemplates/src/main/AndroidManifest.xml:2:3-4:17
-9-->/home/jmwai/PERSONAL/android/memes254/nativetemplates/src/main/AndroidManifest.xml:2:16-42
+9-->/home/jmwai/PERSONAL/android/memes254/nativetemplatess/src/main/AndroidManifest.xml:2:3-4:17
+9-->/home/jmwai/PERSONAL/android/memes254/nativetemplatess/src/main/AndroidManifest.xml:2:16-42
 10
 11        <!-- package="com.google.android.ads.nativetemplates" -->
 12    </application>
